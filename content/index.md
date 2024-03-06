@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Intntion
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi This is Yesh saying Hi to the internet from intntion
